@@ -1,0 +1,11 @@
+#calc {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	align-content: space-between;
+	align-items: center;
+	justify-items: start;
+	justify-content: start;
+}
+#calc input {
+	width: 10vw;
+}
