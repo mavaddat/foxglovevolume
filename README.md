@@ -1,5 +1,6 @@
 # Volume calculator
-
+<link href="/css/calc.css" rel="stylesheet">
+<script src='/js/calc.js'></script>
 Calculator for rectangular volume of material
 <form id="calculator" name="calculator">
 	<input type="radio" id="metric" name="units" value="metric"/>
